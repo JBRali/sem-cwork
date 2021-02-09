@@ -5,4 +5,4 @@ Daniel Quek
 Daniel Bell
 Ali Bouhaddou-Robinson
 
-Master: https://travis-ci.com/JBRali/sem-cwork.svg?token=VHDXNfExpfrQ13TEvzaP&branch=master
+Master: [![Build Status](https://travis-ci.com/JBRali/sem-cwork.svg?branch=master)](https://travis-ci.com/JBRali/sem-cwork)
